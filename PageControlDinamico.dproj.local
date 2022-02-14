@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/29 10:59:38.000.449,=D:\Belizario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/10 15:59:55.000.681,=D:\Belizario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/10 16:04:17.000.212,=D:\Belizario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/27 21:08:59.000.130,=D:\Belizario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/01 10:09:37.000.112,=D:\Belizario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/12 17:06:15.285,=D:\Belizario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/12 17:06:48.504,D:\Dev\Patrick\PageControlDinamico\uFrmPrincipal.pas=D:\Belizario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/12 17:06:48.504,D:\Dev\Patrick\PageControlDinamico\uFrmPrincipal.dfm=D:\Belizario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/02/12 17:06:50.726,D:\Dev\Patrick\PageControlDinamico\PageControlDinamico.dproj=D:\Belizario\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
